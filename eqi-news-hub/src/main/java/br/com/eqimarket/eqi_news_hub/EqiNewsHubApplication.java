@@ -1,3 +1,4 @@
+// /eqi-news-hub/src/main/java/br/com/eqimarket/eqi_news_hub/EqiNewsHubApplication.java
 package br.com.eqimarket.eqi_news_hub;
 
 import org.springframework.boot.SpringApplication;

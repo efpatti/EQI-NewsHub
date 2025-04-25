@@ -1,3 +1,4 @@
+// eqi-news-hub/src/test/java/br/com/eqimarket/eqi_news_hub/EqiNewsHubApplicationTests.java
 package br.com.eqimarket.eqi_news_hub;
 
 import org.junit.jupiter.api.Test;
